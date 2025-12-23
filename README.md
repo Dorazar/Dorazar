@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://res.cloudinary.com/dnamgrppl/image/upload/v1766484616/background_ozmk7d.png" alt="banner" width="100%" />
 <!--
 **Dorazar/Dorazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

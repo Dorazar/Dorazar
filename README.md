@@ -44,7 +44,6 @@
   <tr>
     <td colspan="3" align="center" valign="middle">
 <img width="1536" height="1024" alt="background" src="https://github.com/user-attachments/assets/08774e50-fc3c-44c9-b881-50c722deabe9" />
-
     </td>
   </tr>
 

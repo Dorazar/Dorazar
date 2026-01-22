@@ -1,6 +1,6 @@
 <p>
   <strong>Hi, I’m Dor 👋</strong><br/>
-  A product-oriented <strong>Full-Stack Developer</strong> with a strong frontend mindset
+  A product-oriented <strong>Full-Stack Developer,BI Developer And Data Analyst</strong> with a strong frontend mindset
   and solid backend foundations.<br/>
   I enjoy building clean, scalable applications with a focus on user experience,
   architecture, and performance.
